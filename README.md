@@ -91,7 +91,7 @@ infra-challenge/
 # Quick Start
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Shakeelkhuhro/Carecloud-Devops-Challenge.git
 cd infra-challenge
 cp .env.example .env
 docker compose up --build -d
